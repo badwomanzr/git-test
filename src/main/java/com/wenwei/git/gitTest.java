@@ -19,5 +19,7 @@ public class gitTest {
         System.out.println("master commit...");
         System.out.println("hot fix commit...");
         System.out.println("1111111111");
+        System.out.println("222222222");
+
     }
 }
